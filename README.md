@@ -1,8 +1,9 @@
-# React Image Compressor
+# Offline Image Compressor
+# Project ID-35
 
-## Overview
-
-A simple image compressor built with [react](https://reactjs.org/) and [browser-image-compression](https://www.npmjs.com/package/browser-image-compression).
+- Team Members
+- 1)190031661-Bhaskar Reddy Vanga(lead)
+- 2)190031634-Togaru Joseph Subhakar
 
 ## Functionalities
 
@@ -15,23 +16,3 @@ A simple image compressor built with [react](https://reactjs.org/) and [browser-
 - React Bootstrap
 - Browser Image Compression
 
-## Development
-
-1. Clone the repository and change directory.
-
-```
-git clone https://github.com/RaulB-masai/react-image-compressor.git
-cd react-image-compressor
-```
-
-2. Install npm dependencies
-
-```
-npm install
-```
-
-3. Run the app locally.
-
-```
-npm start
-```
